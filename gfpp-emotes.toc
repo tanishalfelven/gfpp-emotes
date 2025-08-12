@@ -1,0 +1,7 @@
+## Interface: 110007
+## IconTexture: 2056011
+## Title: gfpp emotes
+## Author: Wrongula (Wrongula-Dreamscythe)
+## Version: 0.0.2
+## Dependencies: ChatEmotes
+core.lua

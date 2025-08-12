@@ -1,7 +1,0 @@
-## Interface: 110007
-## IconTexture: 2056011
-## Title: HFF Emotes
-## Author: Wrongue (Wrongue-Doomhowl)
-## Version: 0.0.1
-## Dependencies: ChatEmotes
-core.lua
