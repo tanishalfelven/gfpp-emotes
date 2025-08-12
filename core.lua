@@ -18,7 +18,7 @@ emotes["gfpp"] = {
 	{ name = ":fielderreaction:", file = "fielderreaction" },
 	{ name = ":gayggles:", file = "gayggles" },
 	{ name = ":gfpp:", file = "gfpp" },
-	{ name = ":gonnascream:", file = "gonnascream" }
+	{ name = ":gonnascream:", file = "gonnascream" },
 	{ name = ":lookingyou:", file = "lookingyou" },
 	{ name = ":nerdcat:", file = "nerdcat" },
 	{ name = ":noggen:", file = "noggen" },
@@ -31,7 +31,7 @@ emotes["gfpp"] = {
 	{ name = ":raccuwu:", file = "raccuwu" },
 	{ name = ":surprisedpikachu:", file = "surprisedpikachu" },
 	{ name = ":transpika:", file = "transpika" },
-	{ name = ":uno:", file = "uno" },
+	{ name = ":uno:", file = "uno" }
 }
 
 local packageName, addonName = "gfpp emotes", ...
