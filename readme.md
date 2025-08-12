@@ -1,4 +1,4 @@
-# <gfpp> emotes
+# gfpp emotes
 
 ## Install Instructions
 
